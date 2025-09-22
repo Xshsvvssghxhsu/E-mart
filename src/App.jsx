@@ -4,7 +4,7 @@ import Home from './pages/home';
 import Products from './pages/Products';
 import Navbar from './components/Navbar';
 import Searchbar from './components/Searchbar';
-import NeedHelp from "./pages/needhelp";
+import NeedHelp from "./pages/NeedHelp";
 import MyEmartAccount from './pages/MyEmartAccount';
 import TermsAndConditions from './pages/TermsAndConditions';
 import Cart from './pages/cart';
